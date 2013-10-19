@@ -1,12 +1,12 @@
 /*
  * =====================================================================================
  *
- *       Filename:  a.cpp
+ *       Filename:  b.cpp
  *
  *    Description:  
  *
  *        Version:  1.0
- *        Created:  2013/10/19 12:05:12
+ *        Created:  2013/10/19 12:09:42
  *       Revision:  none
  *       Compiler:  gcc
  *
@@ -30,14 +30,3 @@ main ( int argc, char *argv[] )
 {
 	return EXIT_SUCCESS;
 }				/* ----------  end of function main  ---------- */
-/* 
- * ===  FUNCTION  ======================================================================
- *         Name:  good
- *  Description:  
- * =====================================================================================
- */
-	void
-good ( <+argument list+> )
-{
-	return <+return value+>;
-}		/* -----  end of function good  ----- */
